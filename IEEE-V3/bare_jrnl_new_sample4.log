@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  8 NOV 2022 18:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  10 NOV 2022 15:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -428,7 +428,50 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [lettersize].
 
-(c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.aux)
+(c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+)
 \openout1 = `bare_jrnl_new_sample4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -499,11 +542,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Figures/system.png, id=77, 266.49562pt x 189.70876pt>
+<Figures/system.png, id=77, 702.2235pt x 495.65175pt>
 File: Figures/system.png Graphic file (type png)
 <use Figures/system.png>
 Package pdftex.def Info: Figures/system.png  used on input line 15.
-(pdftex.def)             Requested size: 245.71754pt x 174.92206pt.
+(pdftex.def)             Requested size: 245.71754pt x 173.43532pt.
 ) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/finger-knuckle-acquisition-and-segmentation.tex [1{c:/Program Files/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -511,29 +554,125 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.4 
-     <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/system.png>] [2]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/template-generation-and-matching.tex [3]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/experiments.tex
+     <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/system.png>]
+<Figures/4-4-2-a.jpg, id=94, 115.632pt x 115.632pt>
+File: Figures/4-4-2-a.jpg Graphic file (type jpg)
+<use Figures/4-4-2-a.jpg>
+Package pdftex.def Info: Figures/4-4-2-a.jpg  used on input line 9.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 9.
+ (c:/Program Files/texlive/2021/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+<Figures/4-4-2-b.jpg, id=95, 115.632pt x 115.632pt>
+File: Figures/4-4-2-b.jpg Graphic file (type jpg)
+<use Figures/4-4-2-b.jpg>
+Package pdftex.def Info: Figures/4-4-2-b.jpg  used on input line 11.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+<Figures/4-4-2-c.jpg, id=96, 115.632pt x 115.632pt>
+File: Figures/4-4-2-c.jpg Graphic file (type jpg)
+<use Figures/4-4-2-c.jpg>
+Package pdftex.def Info: Figures/4-4-2-c.jpg  used on input line 13.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+<Figures/4-4-2-d.jpg, id=97, 115.632pt x 115.632pt>
+File: Figures/4-4-2-d.jpg Graphic file (type jpg)
+<use Figures/4-4-2-d.jpg>
+Package pdftex.def Info: Figures/4-4-2-d.jpg  used on input line 17.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+<Figures/4-4-2-e.jpg, id=98, 115.632pt x 115.632pt>
+File: Figures/4-4-2-e.jpg Graphic file (type jpg)
+<use Figures/4-4-2-e.jpg>
+Package pdftex.def Info: Figures/4-4-2-e.jpg  used on input line 19.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+<Figures/4-4-2-f.jpg, id=99, 115.632pt x 115.632pt>
+File: Figures/4-4-2-f.jpg Graphic file (type jpg)
+<use Figures/4-4-2-f.jpg>
+Package pdftex.def Info: Figures/4-4-2-f.jpg  used on input line 21.
+(pdftex.def)             Requested size: 79.49744pt x 79.50032pt.
+<Figures/4-4-2-fingerprint.png, id=100, 417.36789pt x 115.14789pt>
+File: Figures/4-4-2-fingerprint.png Graphic file (type png)
+<use Figures/4-4-2-fingerprint.png>
+Package pdftex.def Info: Figures/4-4-2-fingerprint.png  used on input line 29.
+(pdftex.def)             Requested size: 245.71754pt x 67.79082pt.
+<Figures/block-diagram.png, id=101, 500.46976pt x 149.23755pt>
+File: Figures/block-diagram.png Graphic file (type png)
+<use Figures/block-diagram.png>
+Package pdftex.def Info: Figures/block-diagram.png  used on input line 38.
+(pdftex.def)             Requested size: 433.62pt x 129.30957pt.
+<Figures/mask-rcnn.png, id=102, 412.54124pt x 65.043pt>
+File: Figures/mask-rcnn.png Graphic file (type png)
+<use Figures/mask-rcnn.png>
+Package pdftex.def Info: Figures/mask-rcnn.png  used on input line 49.
+(pdftex.def)             Requested size: 216.81pt x 34.1838pt.
+ [2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.56 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.56 
+      <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-a.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-b.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-c.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-d.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-e.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-f.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/4-4-2-fingerprint.png>]
+<Figures/selected-before.jpg, id=118, 158.994pt x 158.994pt>
+File: Figures/selected-before.jpg Graphic file (type jpg)
+<use Figures/selected-before.jpg>
+Package pdftex.def Info: Figures/selected-before.jpg  used on input line 62.
+(pdftex.def)             Requested size: 79.49744pt x 79.4968pt.
+<Figures/selected-after.jpg, id=119, 158.994pt x 158.994pt>
+File: Figures/selected-after.jpg Graphic file (type jpg)
+<use Figures/selected-after.jpg>
+Package pdftex.def Info: Figures/selected-after.jpg  used on input line 64.
+(pdftex.def)             Requested size: 79.49744pt x 79.4968pt.
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+<Figures/select-algorithm.png, id=120, 211.38976pt x 146.34676pt>
+File: Figures/select-algorithm.png Graphic file (type png)
+<use Figures/select-algorithm.png>
+Package pdftex.def Info: Figures/select-algorithm.png  used on input line 75.
+(pdftex.def)             Requested size: 216.81pt x 150.1091pt.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.82 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.82 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.82 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.82 
+      <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/block-diagram.png> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/mask-rcnn.png> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/selected-before.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/selected-after.jpg> <c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/Figures/select-algorithm.png>]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/template-generation-and-matching.tex [4]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/experiments.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/performance-from-finger-knuckle-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/performance-from-fingerprint-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/joint-performance-from-fingerprint-and-finger-knuckle-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/discussion.tex [4]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/conclusion.tex) [5] (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.bbl) [6
+)) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/performance-from-finger-knuckle-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/performance-from-fingerprint-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/experiments/joint-performance-from-fingerprint-and-finger-knuckle-images.tex) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/discussion.tex [5]) (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/V3/conclusion.tex) [6] (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.bbl) [7
 
 ] (c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `bare_jrnl_new_sample4.out' has not changed.
-(rerunfilecheck)             Checksum: 6B0DA1E9B2BD3A74171C2BEC37E46EC9;3958.
+(rerunfilecheck)             Checksum: 0F062313DCC70DCF184A10AFB2FEB3C3;3947.
  ) 
 Here is how much of TeX's memory you used:
- 11781 strings out of 478994
- 188061 string characters out of 5855130
- 503119 words of memory out of 5000000
- 29009 multiletter control sequences out of 15000+600000
- 439723 words of font info for 95 fonts, out of 8000000 for 9000
+ 11967 strings out of 478994
+ 191223 string characters out of 5855130
+ 504968 words of memory out of 5000000
+ 29148 multiletter control sequences out of 15000+600000
+ 447568 words of font info for 116 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 71i,9n,74p,2700b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.pdf (6 pages, 209503 bytes).
+ 71i,10n,74p,2699b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on c:/Users/ZhenyuZHOU/Desktop/Joint-Finger-Knuckle-and-Fingerprint-Recognition/IEEE-V3/bare_jrnl_new_sample4.pdf (7 pages, 1943077 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 
