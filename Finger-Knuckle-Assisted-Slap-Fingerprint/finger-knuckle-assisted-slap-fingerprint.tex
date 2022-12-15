@@ -1,0 +1,91 @@
+\documentclass[lettersize, journal]{IEEEtran}
+
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{color}
+% \usepackage[style=numeric]{biblatex}
+% \addbibresource{references.bib}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{threeparttable}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{bm}
+\usepackage{mathtools, nccmath}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+% \usepackage[nodisplayskipstretch]{setspace}
+% \setstretch{1.5}
+
+% \setlength{\intextsep}{1pt}
+% \setlength{\textfloatsep}{1pt}
+% \setlength{\abovecaptionskip}{1pt}
+% \setlength{\belowcaptionskip}{1pt}
+
+% \makeatletter
+% \setlength{\@fptop}{3pt}
+% \makeatother
+
+\newcommand\hiddenref[1]{\sbox0{\cite{#1}}}
+\usepackage{amsmath,amsfonts}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{array}
+\usepackage[caption=false,font=scriptsize,labelfont=sf,textfont=sf]{subfig}
+\usepackage{textcomp}
+\usepackage{stfloats}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\hyphenation{op-tical net-works semi-conduc-tor IEEE-Xplore}
+% updated with editorial comments 8/9/2021
+% \raggedbottom
+
+
+\begin{document}
+
+\title{Joint Finger Knuckle and Fingerprint Identification}
+
+% \author{Zhenyu Zhou, Ajay Kumar,~\IEEEmembership{Fellow,~IEEE}}
+\author{{Zhenyu Zhou, Ajay Kumar}
+
+% \thanks{This paper was produced by the IEEE Publication Technology Group. They are in Piscataway, NJ.}% <-this % stops a space
+\thanks{Authors are with the Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong.}}
+
+% The paper headers
+\markboth{Journal of \LaTeX\ Class Files,~Vol.~x, No.~x, ~2022}%
+{Shell \MakeLowercase{\textit{et al.}}: A Sample Article Using IEEEtran.cls for IEEE Journals}
+
+\maketitle
+
+\begin{abstract}
+  Billions of fingerprint images are routinely acquired to support e-governance pro-grams and protect national borders using millions of slap-fingerprint acquisition devices that are deployed globally. Several studies from national ID programs like UIDAI \cite{uidai}, and NIST \cite{2002SUMMARYON}, have indicated that ~2\% of the user population may not have usable fingerprints. Finger knuckle patterns are inherently presented during such slap-fingerprint acquisition and can be simultaneously acquired, \textit{without} any additional user inconvenience, and can not only be used to significantly improve accuracy for user identification but also add to traffic flow. This paper develops the first such finger-knuckle-assisted fingerprint identification system for real applica-tions. We systematically develop automated finger knuckle segmentation capabili-ties, under complex backgrounds and in presence of multiple finger knuckles which are observed in such contactless images from the deployed slap fingerprint devices. Our experimental results illustrate the significant improvement in performance, by incorporating dynamic fusion capabilities and validating promises for such an ap-proach for real-world deployment. This paper also introduces the world’s first joint finger-knuckle and fingerprint database, from 120 different subjects, in the public domain to advance further research and development efforts in this area.
+
+\end{abstract}
+
+\begin{IEEEkeywords}
+  Finger-Knuckle Identification, Slap-Fingerprint Identification, Biometrics Security, Personal Identification
+\end{IEEEkeywords}
+
+\input{V1/introduction.tex}
+\input{V1/finger-knuckle-acquisition-and-segmentation.tex}
+\input{V1/template-generation-and-matching.tex}
+\input{V1/experiments/experiments.tex}
+\input{V1/experiments/performance-from-finger-knuckle-images.tex}
+\input{V1/experiments/performance-from-fingerprint-images.tex}
+\input{V1/experiments/joint-performance-from-fingerprint-and-finger-knuckle-images.tex}
+\input{V1/discussion.tex}
+\input{V1/conclusion.tex}
+
+\bibliography{references.bib}
+\bibliographystyle{unsrt}
+
+
+\end{document}
+
+
