@@ -11,5 +11,27 @@ Among a range of methods introduced in the literature [3] to match fingerprint i
 \subsection{Dynamic Score Consolidation}
 
 The match scores generated from two independent pieces of evidences are consolidated to achieve a more reliable decision score for the user authentication. Biometrics literature [3] provides extensive investigation on a range of methods to consolidate decisions from two pieces of evidences or features. Such consolidation from can be achieved at feature level, score level, or at the decision level. The score level combination is most widely used in the literature and is widely adapted [32] in a range of biometrics system, largely due to its simplicity and the performance. The objective of our system is to serve as an add-on system on the top of existing or deployed slap-fingerprint system where the match scores are inherently available from the respective minutiae templates. Therefore, score level combination was preferred and adapted for the score consolidation in our system.  
+\begin{algorithm}[h!]
+    \renewcommand{\algorithmicrequire}{\textbf{Input:}}
+    \renewcommand{\algorithmicensure}{\textbf{Output:}}
+    \caption{Dynamic Match Score Consolidation}
+    \begin{algorithmic}[1]
+        \REQUIRE Match score $\bm{s_k, s_f, q_k, q_f}$ \\ 
+        \ENSURE Consolidation score $\bm{s_c}$;\\
+        \IF {$q_k \le 1$ and $q_f = 1$}
+            \STATE $s_c = s_f$
+        \ENDIF
+        \IF {$q_k == 1$ and $q_f \le 1$}
+            \STATE $s_c = s_k$
+        \ENDIF
+        \IF {$q_k \le 1$ and $q_f \le 1$}
+            \STATE $s_c = 0$
+        \ELSE
+            \STATE $s_c = w \times s_k + (1-w)*s_f$
+        \ENDIF
+        \RETURN $s_c$
+    \end{algorithmic}
+\end{algorithm}
 
 Real biometric systems during their deployments are often presented with missing or degraded quality of biometric samples and therefore the score-level consolidation scheme should be adaptive to such inputs. Therefore, we developed a dynamic scheme to consolidate match scores from two simultaneously generated match scores from the fingerprint and the finger-knuckle. Let the match score from fingerprint be represented by $s_f$ and the match score from the finger knuckle be represented by $s_k$. The confidence or the quality of input biometric image sample, as shown in Figure 1, can be denoted as $q_k$ and $q_f$ respectively for the finger knuckle and fingerprint. The consolidated match score $s$ is generated as shown in Algorithm 2. The weight $w ( 0 \leq w \leq 1)$  represents weight and is fixed empirically for all the experimental results in this paper. This scheme ensures that in case of missing or low quality biometric images, the importance is automatically granted for the other biometric modality.  
+
