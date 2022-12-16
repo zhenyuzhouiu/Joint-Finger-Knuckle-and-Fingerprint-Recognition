@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{uidai}
 Unique Identification~Authority of~India~(UIDAI).
@@ -14,5 +14,161 @@ Summary of nist standards for biometric accuracy, tamper resistance, and
 \newblock 2002.
 \newblock
   \url{https://www.nist.gov/sites/default/files/documents/2016/12/21/nistapp_nov02.pdf}.
+
+\bibitem{joshi1998computer}
+Dilip~G Joshi, Yelluru~Vasudeva Rao, Soumitra Kar, Valli Kumar, and Ranajit
+  Kumar.
+\newblock Computer-vision-based approach to personal identification using
+  finger crease pattern.
+\newblock {\em Pattern Recognition}, 31(1):15--22, 1998.
+
+\bibitem{kumar2015recovering}
+Ajay Kumar and Bichai Wang.
+\newblock Recovering and matching minutiae patterns from finger knuckle images.
+\newblock {\em Pattern Recognition Letters}, 68:361--367, 2015.
+
+\bibitem{woodard2005finger}
+Damon~L Woodard and Patrick~J Flynn.
+\newblock Finger surface as a biometric identifier.
+\newblock {\em Computer vision and image understanding}, 100(3):357--384, 2005.
+
+\bibitem{sricharan2006knuckle}
+K~Kumar Sricharan, A~Aneesh Reddy, and AG~Ramakrishnan.
+\newblock Knuckle based hand correlation for user authentication.
+\newblock In {\em Biometric Technology for Human Identification III}, volume
+  6202, pages 268--271. SPIE, 2006.
+
+\bibitem{kumar2009personal}
+Ajay Kumar and Ch~Ravikanth.
+\newblock Personal authentication using finger knuckle surface.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  4(1):98--110, 2009.
+
+\bibitem{zhang2010online}
+Lin Zhang, Lei Zhang, David Zhang, and Hailong Zhu.
+\newblock Online finger-knuckle-print verification for personal authentication.
+\newblock {\em Pattern recognition}, 43(7):2560--2571, 2010.
+
+\bibitem{zhu2010multimodal}
+Le-qing Zhu and San-yuan Zhang.
+\newblock Multimodal biometric identification system based on finger geometry,
+  knuckle print and palm print.
+\newblock {\em Pattern Recognition Letters}, 31(12):1641--1649, 2010.
+
+\bibitem{aoyama2011finger}
+Shoichiro Aoyama, Koichi Ito, and Takafumi Aoki.
+\newblock Finger-knuckle-print recognition using blpoc-based local block
+  matching.
+\newblock In {\em The First Asian Conference on Pattern Recognition}, pages
+  525--529. IEEE, 2011.
+
+\bibitem{jaswal2016knuckle}
+Gaurav Jaswal, Amit Kaul, and Ravinder Nath.
+\newblock Knuckle print biometrics and fusion schemes--overview, challenges,
+  and solutions.
+\newblock {\em ACM Computing Surveys (CSUR)}, 49(2):1--46, 2016.
+
+\bibitem{fbi-sensor}
+FBI Certified~Fingerprint Sensors.
+\newblock \url{https://www.fbibiospecs.cjis.gov/Certifications}, 2020.
+
+\bibitem{watson2009slapssegii}
+Craig Watson, Patricia Flanagan, and Brian Cochran.
+\newblock {\em SlapsSegII-Slap Fingerprint Segmentation Evaluation II:.}
+\newblock US Department of Commerce, National Institute of Standards and
+  Technology, 2009.
+
+\bibitem{maltoni2009handbook}
+Davide Maltoni, Dario Maio, Anil~K Jain, and Salil Prabhakar.
+\newblock {\em Handbook of fingerprint recognition}.
+\newblock Springer Science \& Business Media, 2009.
+
+\bibitem{zhang2010slap}
+Yong-Liang Zhang, Gang Xiao, Yan-Miao Li, Hong-Tao Wu, and Ya-Ping Huang.
+\newblock Slap fingerprint segmentation for live-scan devices and ten-print
+  cards.
+\newblock In {\em 2010 20th International Conference on Pattern Recognition},
+  pages 1180--1183. IEEE, 2010.
+
+\bibitem{watson2007user}
+Craig~I Watson, Michael~D Garris, Elham Tabassi, Charles~L Wilson, R~Michael
+  McCabe, Stanley Janet, and Kenneth Ko.
+\newblock User's guide to nist biometric image software (nbis).
+\newblock 2007.
+
+\bibitem{cappelli2010minutia}
+Raffaele Cappelli, Matteo Ferrara, and Davide Maltoni.
+\newblock Minutia cylinder-code: A new representation and matching technique
+  for fingerprint recognition.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  32(12):2128--2141, 2010.
+
+\bibitem{verifinger}
+Verifinger.
+\newblock \url{https://www.neurotechnology.com/verifinger.html}, Accessed:
+  2022.
+
+\bibitem{he2017mask}
+Kaiming He, Georgia Gkioxari, Piotr Doll{\'a}r, and Ross Girshick.
+\newblock Mask r-cnn.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 2961--2969, 2017.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{lin2017feature}
+Tsung-Yi Lin, Piotr Doll{\'a}r, Ross Girshick, Kaiming He, Bharath Hariharan,
+  and Serge Belongie.
+\newblock Feature pyramid networks for object detection.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 2117--2125, 2017.
+
+\bibitem{data-augmentation}
+Data augmentation for machine~learning experiments.
+\newblock \url{https:// github.com/aleju/imgaug}, Sep, 2022.
+
+\bibitem{zheng20163d}
+Qian Zheng, Ajay Kumar, and Gang Pan.
+\newblock A 3d feature descriptor recovered from a single 2d palmprint image.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  38(6):1272--1279, 2016.
+
+\bibitem{kumar2016personal}
+Ajay Kumar and Zhihuan Xu.
+\newblock Personal identification using minor knuckle patterns from palm dorsal
+  surface.
+\newblock {\em IEEE Transactions on Information Forensics and Security},
+  11(10):2338--2348, 2016.
+
+\bibitem{jain2012biometric}
+Anil~K Jain and Ajay Kumar.
+\newblock Biometric recognition: an overview.
+\newblock {\em Second generation biometrics: The ethical, legal and social
+  context}, pages 49--79, 2012.
+
+\bibitem{futronic}
+Futronic FS64 Flat/Slap~Fingerprint Scanner.
+\newblock \url{https://www.futronic-tech.com/product_fs64}, 2018.
+
+\bibitem{mindvision}
+MindVision Technology.
+\newblock \url{http://www.mindvision.com.cn/}, 2022.
+
+\bibitem{datalink}
+The Hong Kong Polytechnic University Joint~Finger Knuckle and Fingerprint
+  Database.
+\newblock
+  \url{https://www4.comp.polyu.edu.hk/~csajaykr/myhome/database_request/fn3},
+  2020.
+
+\bibitem{redmon2016you}
+Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi.
+\newblock You only look once: Unified, real-time object detection.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 779--788, 2016.
 
 \end{thebibliography}
