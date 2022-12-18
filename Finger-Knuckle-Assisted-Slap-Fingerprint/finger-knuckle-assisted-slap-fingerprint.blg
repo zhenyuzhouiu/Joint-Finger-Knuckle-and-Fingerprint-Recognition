@@ -6,45 +6,45 @@ Database file #1: references.bib
 Warning--empty author in 2002SUMMARYON
 Warning--empty booktitle in 2002SUMMARYON
 Warning--empty journal in watson2007user
-You've used 29 entries,
+You've used 30 entries,
             1791 wiz_defined-function locations,
-            606 strings with 8498 characters,
-and the built_in function-call counts, 7325 in all, are:
-= -- 674
-> -- 294
+            613 strings with 8705 characters,
+and the built_in function-call counts, 7591 in all, are:
+= -- 698
+> -- 308
 < -- 9
-+ -- 110
-- -- 81
-* -- 447
-:= -- 1067
-add.period$ -- 85
-call.type$ -- 29
-change.case$ -- 20
++ -- 115
+- -- 85
+* -- 471
+:= -- 1110
+add.period$ -- 88
+call.type$ -- 30
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 338
-empty$ -- 747
-format.name$ -- 81
-if$ -- 1697
+cite$ -- 33
+duplicate$ -- 347
+empty$ -- 771
+format.name$ -- 85
+if$ -- 1753
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 26
-newline$ -- 143
-num.names$ -- 28
-pop$ -- 123
+int.to.str$ -- 30
+missing$ -- 27
+newline$ -- 148
+num.names$ -- 29
+pop$ -- 124
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 201
+skip$ -- 204
 stack$ -- 0
-substring$ -- 534
-swap$ -- 112
+substring$ -- 559
+swap$ -- 113
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 72
-width$ -- 31
-write$ -- 302
+while$ -- 75
+width$ -- 32
+write$ -- 313
 (There were 3 warnings)

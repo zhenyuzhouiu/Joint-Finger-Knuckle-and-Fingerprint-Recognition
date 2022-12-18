@@ -108,6 +108,12 @@ Verifinger.
 \newblock \url{https://www.neurotechnology.com/verifinger.html}, Accessed:
   2022.
 
+\bibitem{wang2004image}
+Zhou Wang, Alan~C Bovik, Hamid~R Sheikh, and Eero~P Simoncelli.
+\newblock Image quality assessment: from error visibility to structural
+  similarity.
+\newblock {\em IEEE transactions on image processing}, 13(4):600--612, 2004.
+
 \bibitem{he2017mask}
 Kaiming He, Georgia Gkioxari, Piotr Doll{\'a}r, and Ross Girshick.
 \newblock Mask r-cnn.
