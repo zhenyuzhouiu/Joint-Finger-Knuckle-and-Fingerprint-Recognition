@@ -15,6 +15,20 @@ Summary of nist standards for biometric accuracy, tamper resistance, and
 \newblock
   \url{https://www.nist.gov/sites/default/files/documents/2016/12/21/nistapp_nov02.pdf}.
 
+\bibitem{cappelli2010minutia}
+Raffaele Cappelli, Matteo Ferrara, and Davide Maltoni.
+\newblock Minutia cylinder-code: A new representation and matching technique
+  for fingerprint recognition.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  32(12):2128--2141, 2010.
+
+\bibitem{kumar2014importance}
+Ajay Kumar.
+\newblock Importance of being unique from finger dorsal patterns: Exploring
+  minor finger knuckle patterns in verifying human identities.
+\newblock {\em IEEE transactions on information forensics and security},
+  9(8):1288--1298, 2014.
+
 \bibitem{joshi1998computer}
 Dilip~G Joshi, Yelluru~Vasudeva Rao, Soumitra Kar, Valli Kumar, and Ranajit
   Kumar.
@@ -62,6 +76,13 @@ Shoichiro Aoyama, Koichi Ito, and Takafumi Aoki.
 \newblock In {\em The First Asian Conference on Pattern Recognition}, pages
   525--529. IEEE, 2011.
 
+\bibitem{thapar2019fkimnet}
+Daksh Thapar, Gaurav Jaswal, and Aditya Nigam.
+\newblock Fkimnet: a finger dorsal image matching network comparing component
+  (major, minor and nail) matching with holistic (finger dorsal) matching.
+\newblock In {\em 2019 international joint conference on neural networks
+  (IJCNN)}, pages 1--8. IEEE, 2019.
+
 \bibitem{cheng2020deep}
 Kevin~HM Cheng and Ajay Kumar.
 \newblock Deep feature collaboration for challenging 3d finger knuckle
@@ -103,13 +124,6 @@ Craig~I Watson, Michael~D Garris, Elham Tabassi, Charles~L Wilson, R~Michael
 \newblock User's guide to nist biometric image software (nbis).
 \newblock 2007.
 
-\bibitem{cappelli2010minutia}
-Raffaele Cappelli, Matteo Ferrara, and Davide Maltoni.
-\newblock Minutia cylinder-code: A new representation and matching technique
-  for fingerprint recognition.
-\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
-  32(12):2128--2141, 2010.
-
 \bibitem{verifinger}
 Verifinger.
 \newblock \url{https://www.neurotechnology.com/verifinger.html}, Accessed:
@@ -132,6 +146,13 @@ Kaiming He, Georgia Gkioxari, Piotr Doll{\'a}r, and Ross Girshick.
 \newblock In {\em Proceedings of the IEEE international conference on computer
   vision}, pages 2961--2969, 2017.
 
+\bibitem{lin2014microsoft}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva
+  Ramanan, Piotr Doll{\'a}r, and C~Lawrence Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock In {\em European conference on computer vision}, pages 740--755.
+  Springer, 2014.
+
 \bibitem{he2016deep}
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
 \newblock Deep residual learning for image recognition.
@@ -149,6 +170,19 @@ Tsung-Yi Lin, Piotr Doll{\'a}r, Ross Girshick, Kaiming He, Bharath Hariharan,
 Data augmentation for machine~learning experiments.
 \newblock \url{https:// github.com/aleju/imgaug}, Sep, 2022.
 
+\bibitem{chen2017beyond}
+Weihua Chen, Xiaotang Chen, Jianguo Zhang, and Kaiqi Huang.
+\newblock Beyond triplet loss: a deep quadruplet network for person
+  re-identification.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 403--412, 2017.
+
+\bibitem{tan2021efficientnetv2}
+Mingxing Tan and Quoc Le.
+\newblock Efficientnetv2: Smaller models and faster training.
+\newblock In {\em International Conference on Machine Learning}, pages
+  10096--10106. PMLR, 2021.
+
 \bibitem{zheng20163d}
 Qian Zheng, Ajay Kumar, and Gang Pan.
 \newblock A 3d feature descriptor recovered from a single 2d palmprint image.
@@ -162,11 +196,12 @@ Ajay Kumar and Zhihuan Xu.
 \newblock {\em IEEE Transactions on Information Forensics and Security},
   11(10):2338--2348, 2016.
 
-\bibitem{tan2021efficientnetv2}
-Mingxing Tan and Quoc Le.
-\newblock Efficientnetv2: Smaller models and faster training.
-\newblock In {\em International Conference on Machine Learning}, pages
-  10096--10106. PMLR, 2021.
+\bibitem{liu2020contactless}
+Yang Liu and Ajay Kumar.
+\newblock Contactless palmprint identification using deeply learned residual
+  features.
+\newblock {\em IEEE Transactions on Biometrics, Behavior, and Identity
+  Science}, 2(2):172--181, 2020.
 
 \bibitem{russakovsky2015imagenet}
 Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
@@ -174,13 +209,6 @@ Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma,
 \newblock Imagenet large scale visual recognition challenge.
 \newblock {\em International journal of computer vision}, 115(3):211--252,
   2015.
-
-\bibitem{chen2017beyond}
-Weihua Chen, Xiaotang Chen, Jianguo Zhang, and Kaiqi Huang.
-\newblock Beyond triplet loss: a deep quadruplet network for person
-  re-identification.
-\newblock In {\em Proceedings of the IEEE conference on computer vision and
-  pattern recognition}, pages 403--412, 2017.
 
 \bibitem{jain2012biometric}
 Anil~K Jain and Ajay Kumar.
@@ -201,7 +229,7 @@ The Hong Kong Polytechnic University Joint~Finger Knuckle and Fingerprint
   Database.
 \newblock
   \url{https://www4.comp.polyu.edu.hk/~csajaykr/myhome/database_request/fn3},
-  2020.
+  2022.
 
 \bibitem{redmon2016you}
 Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi.

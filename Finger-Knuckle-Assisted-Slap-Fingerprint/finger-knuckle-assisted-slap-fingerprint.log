@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  19 DEC 2022 19:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.18)  26 DEC 2022 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,20 +338,31 @@ Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldsymbols=\mathgroup6
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
+) (c:/Program Files/texlive/2021/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box56
+\UL@hyphenbox=\box57
+\UL@skip=\skip60
+\UL@hook=\toks27
+\UL@height=\dimen181
+\UL@pe=\count290
+\UL@pixel=\dimen182
+\ULC@box=\box58
+Package: ulem 2019/11/18
+\ULdepth=\dimen183
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2021/03/18 v1.25 mathematical typesetting tools
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count290
-\calc@Bcount=\count291
-\calc@Adimen=\dimen181
-\calc@Bdimen=\dimen182
-\calc@Askip=\skip60
-\calc@Bskip=\skip61
+\calc@Acount=\count291
+\calc@Bcount=\count292
+\calc@Adimen=\dimen184
+\calc@Bdimen=\dimen185
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count292
-\calc@Cskip=\skip62
+\calc@Ccount=\count293
+\calc@Cskip=\skip63
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
@@ -359,20 +370,20 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count293
-\l_MT_multwidth_dim=\dimen183
-\origjot=\skip63
-\l_MT_shortvdotswithinadjustabove_dim=\dimen184
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen185
-\l_MT_above_intertext_sep=\dimen186
-\l_MT_below_intertext_sep=\dimen187
-\l_MT_above_shortintertext_sep=\dimen188
-\l_MT_below_shortintertext_sep=\dimen189
-\xmathstrut@box=\box56
-\xmathstrut@dim=\dimen190
+\g_MT_multlinerow_int=\count294
+\l_MT_multwidth_dim=\dimen186
+\origjot=\skip64
+\l_MT_shortvdotswithinadjustabove_dim=\dimen187
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen188
+\l_MT_above_intertext_sep=\dimen189
+\l_MT_below_intertext_sep=\dimen190
+\l_MT_above_shortintertext_sep=\dimen191
+\l_MT_below_shortintertext_sep=\dimen192
+\xmathstrut@box=\box59
+\xmathstrut@dim=\dimen193
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/ncctools/nccmath.sty
 Package: nccmath 2006/01/20 v1.3 Additional Math Commands (NCC)
-\NCC@fracrulewidth=\dimen191
+\NCC@fracrulewidth=\dimen194
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup7
@@ -384,63 +395,51 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: subfig 2005/06/28 ver: 1.3 subfig package
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen192
-\captionmargin@=\dimen193
-\captionwidth=\dimen194
-\caption@tempdima=\dimen195
-\caption@indent=\dimen196
-\caption@parindent=\dimen197
-\caption@hangindent=\dimen198
+\captionmargin=\dimen195
+\captionmargin@=\dimen196
+\captionwidth=\dimen197
+\caption@tempdima=\dimen198
+\caption@indent=\dimen199
+\caption@parindent=\dimen256
+\caption@hangindent=\dimen257
 Package caption Info: Unknown document class (or package),
 (caption)             standard defaults will be used.
 Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEtablestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\normalfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi \fi  on input line 1139.
 )
-\c@KVtest=\count294
-\sf@farskip=\skip64
-\sf@captopadj=\dimen199
-\sf@capskip=\skip65
-\sf@nearskip=\skip66
-\c@subfigure=\count295
-\c@subfigure@save=\count296
-\c@lofdepth=\count297
-\c@subtable=\count298
-\c@subtable@save=\count299
-\c@lotdepth=\count300
-\sf@top=\skip67
-\sf@bottom=\skip68
+\c@KVtest=\count295
+\sf@farskip=\skip65
+\sf@captopadj=\dimen258
+\sf@capskip=\skip66
+\sf@nearskip=\skip67
+\c@subfigure=\count296
+\c@subfigure@save=\count297
+\c@lofdepth=\count298
+\c@subtable=\count299
+\c@subtable@save=\count300
+\c@lotdepth=\count301
+\sf@top=\skip68
+\sf@bottom=\skip69
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/sttools/stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip settings
-\@dblbotnum=\count301
-\c@dblbotnumber=\count302
+\@dblbotnum=\count302
+\c@dblbotnumber=\count303
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks27
-\verbatim@line=\toks28
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read2
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box60
 )
 
 LaTeX Warning: Unused global option(s):
     [lettersize].
 
 (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `sub@' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `sub@' multiply defined.
-
 
 LaTeX Warning: Label `' multiply defined.
 
@@ -579,27 +578,27 @@ LaTeX Warning: Label `sub@' multiply defined.
 )
 \openout1 = `finger-knuckle-assisted-slap-fingerprint.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 -- Lines per column: 58 (exact).
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 51.
 (c:/Program Files/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -607,28 +606,28 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count304
+\c@section@level=\count305
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
  (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.out) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.out)
 \@outlinefile=\write3
 \openout3 = `finger-knuckle-assisted-slap-fingerprint.out'.
 
  (c:/Program Files/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen256
-\scratchbox=\box58
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen257
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count306
+\scratchdimen=\dimen259
+\scratchbox=\box61
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen260
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks31
 ) (c:/Program Files/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -639,71 +638,71 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
  (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/introduction.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 14.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 13.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1{c:/Program Files/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-<Figures/system.png, id=133, 930.47626pt x 660.96938pt>
+<Figures/system.png, id=139, 930.47626pt x 660.96938pt>
 File: Figures/system.png Graphic file (type png)
 <use Figures/system.png>
-Package pdftex.def Info: Figures/system.png  used on input line 22.
+Package pdftex.def Info: Figures/system.png  used on input line 21.
 (pdftex.def)             Requested size: 289.07999pt x 205.34215pt.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 22.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 21.
  (c:/Program Files/texlive/2021/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
-<Figures/system-sensor.png, id=135, 288.3272pt x 657.2053pt>
+<Figures/system-sensor.png, id=141, 288.3272pt x 657.2053pt>
 File: Figures/system-sensor.png Graphic file (type png)
 <use Figures/system-sensor.png>
-Package pdftex.def Info: Figures/system-sensor.png  used on input line 25.
+Package pdftex.def Info: Figures/system-sensor.png  used on input line 24.
 (pdftex.def)             Requested size: 90.3375pt x 205.90764pt.
  [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.39 
+l.36 
       <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/system.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/system-sensor.png>]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/finger-knuckle-acquisition-and-segmentation.tex
-<Figures/4-4-2-a.png, id=170, 553.31718pt x 552.56438pt>
+<Figures/4-4-2-a.png, id=174, 553.31718pt x 552.56438pt>
 File: Figures/4-4-2-a.png Graphic file (type png)
 <use Figures/4-4-2-a.png>
 Package pdftex.def Info: Figures/4-4-2-a.png  used on input line 9.
 (pdftex.def)             Requested size: 79.85803pt x 79.74458pt.
-<Figures/4-4-2-b.png, id=171, 551.81157pt x 551.81157pt>
+<Figures/4-4-2-b.png, id=175, 551.81157pt x 551.81157pt>
 File: Figures/4-4-2-b.png Graphic file (type png)
 <use Figures/4-4-2-b.png>
 Package pdftex.def Info: Figures/4-4-2-b.png  used on input line 11.
 (pdftex.def)             Requested size: 79.85803pt x 79.85486pt.
-<Figures/4-4-2-c.png, id=172, 553.31718pt x 554.07pt>
+<Figures/4-4-2-c.png, id=176, 553.31718pt x 554.07pt>
 File: Figures/4-4-2-c.png Graphic file (type png)
 <use Figures/4-4-2-c.png>
 Package pdftex.def Info: Figures/4-4-2-c.png  used on input line 13.
 (pdftex.def)             Requested size: 79.67719pt x 79.78432pt.
-<Figures/4-4-2-d.png, id=173, 554.07pt x 554.07pt>
+<Figures/4-4-2-d.png, id=177, 554.07pt x 554.07pt>
 File: Figures/4-4-2-d.png Graphic file (type png)
 <use Figures/4-4-2-d.png>
 Package pdftex.def Info: Figures/4-4-2-d.png  used on input line 17.
 (pdftex.def)             Requested size: 79.49744pt x 79.49687pt.
-<Figures/4-4-2-e.png, id=174, 553.31718pt x 553.31718pt>
+<Figures/4-4-2-e.png, id=178, 553.31718pt x 553.31718pt>
 File: Figures/4-4-2-e.png Graphic file (type png)
 <use Figures/4-4-2-e.png>
 Package pdftex.def Info: Figures/4-4-2-e.png  used on input line 19.
 (pdftex.def)             Requested size: 79.49744pt x 79.49017pt.
-<Figures/4-4-2-f.png, id=175, 554.07pt x 551.81157pt>
+<Figures/4-4-2-f.png, id=179, 554.07pt x 551.81157pt>
 File: Figures/4-4-2-f.png Graphic file (type png)
 <use Figures/4-4-2-f.png>
 Package pdftex.def Info: Figures/4-4-2-f.png  used on input line 21.
 (pdftex.def)             Requested size: 79.85803pt x 79.52647pt.
-<Figures/4-4-2-fingerprint.png, id=176, 1412.27625pt x 385.44pt>
+<Figures/4-4-2-fingerprint.png, id=180, 1412.27625pt x 385.44pt>
 File: Figures/4-4-2-fingerprint.png Graphic file (type png)
 <use Figures/4-4-2-fingerprint.png>
 Package pdftex.def Info: Figures/4-4-2-fingerprint.png  used on input line 29.
@@ -712,17 +711,13 @@ Package pdftex.def Info: Figures/4-4-2-fingerprint.png  used on input line 29.
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.35 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.35 
-      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-c.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-d.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-e.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-f.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-fingerprint.png>]
-<Figures/block-diagram.png, id=206, 701.62125pt x 201.00093pt>
+      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-c.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-d.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-e.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-f.png>]
+<Figures/block-diagram.png, id=212, 701.62125pt x 201.00093pt>
 File: Figures/block-diagram.png Graphic file (type png)
 <use Figures/block-diagram.png>
 Package pdftex.def Info: Figures/block-diagram.png  used on input line 39.
 (pdftex.def)             Requested size: 505.89pt x 144.93217pt.
-<Figures/mask-rcnn.png, id=207, 642.14906pt x 101.62968pt>
+<Figures/mask-rcnn.png, id=213, 642.14906pt x 101.62968pt>
 File: Figures/mask-rcnn.png Graphic file (type png)
 <use Figures/mask-rcnn.png>
 Package pdftex.def Info: Figures/mask-rcnn.png  used on input line 50.
@@ -732,24 +727,12 @@ Overfull \hbox (0.94499pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.59 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.59 
-      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/block-diagram.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/mask-rcnn.png>]
-<Figures/select-before.png, id=227, 307.90031pt x 307.90031pt>
+<Figures/select-before.png, id=226, 307.90031pt x 307.90031pt>
 File: Figures/select-before.png Graphic file (type png)
 <use Figures/select-before.png>
 Package pdftex.def Info: Figures/select-before.png  used on input line 63.
 (pdftex.def)             Requested size: 115.63243pt x 115.63145pt.
-<Figures/select-after.png, id=228, 308.65312pt x 308.65312pt>
+<Figures/select-after.png, id=227, 308.65312pt x 308.65312pt>
 File: Figures/select-after.png Graphic file (type png)
 <use Figures/select-after.png>
 Package pdftex.def Info: Figures/select-after.png  used on input line 65.
@@ -760,10 +743,19 @@ File: Figures/select-algorithm.png Graphic file (type png)
 <use Figures/select-algorithm.png>
 Package pdftex.def Info: Figures/select-algorithm.png  used on input line 153.
 (pdftex.def)             Requested size: 180.67499pt x 124.42815pt.
-
-Underfull \vbox (badness 3907) has occurred while \output is active []
-
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.160 
+       <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/4-4-2-fingerprint.png>] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.160 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.160 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.160 
@@ -771,36 +763,46 @@ l.160
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.160 
-       <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-before.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-after.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-algorithm.png>]
-<Figures/finger-orientation.png, id=285, 308.65312pt x 307.90031pt>
+       <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/block-diagram.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/mask-rcnn.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-before.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-after.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/select-algorithm.png>]
+<Figures/finger-orientation.png, id=299, 308.65312pt x 307.90031pt>
 File: Figures/finger-orientation.png Graphic file (type png)
 <use Figures/finger-orientation.png>
 Package pdftex.def Info: Figures/finger-orientation.png  used on input line 167.
 (pdftex.def)             Requested size: 180.67499pt x 180.24075pt.
-<Figures/orientation-normization.png, id=289, 484.81125pt x 313.9228pt>
+<Figures/orientation-normization.png, id=303, 484.81125pt x 313.9228pt>
 File: Figures/orientation-normization.png Graphic file (type png)
 <use Figures/orientation-normization.png>
 Package pdftex.def Info: Figures/orientation-normization.png  used on input line 176.
 (pdftex.def)             Requested size: 195.12877pt x 126.34767pt.
-) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/template-generation-and-matching.tex [6pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/template-generation-and-matching.tex
+<Figures/framework/ST-Residual/Framework.png, id=304, 946.299pt x 474.792pt>
+File: Figures/framework/ST-Residual/Framework.png Graphic file (type png)
+<use Figures/framework/ST-Residual/Framework.png>
+Package pdftex.def Info: Figures/framework/ST-Residual/Framework.png  used on input line 7.
+(pdftex.def)             Requested size: 469.75499pt x 235.6929pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.7 ... fit on matching two texture feature maps.}
-                                                  pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+l.11 \end{figure*}
+                  pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.7 ... fit on matching two texture feature maps.}
-                                                  pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+l.11 \end{figure*}
+                  pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.7 ... fit on matching two texture feature maps.}
-                                                   <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-orientation.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/orientation-normization.png>]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/experiments.tex [7]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/performance-from-finger-knuckle-images.tex
-<Figures/finger-knuckle/left-roc.pdf, id=355, 390.36542pt x 299.10445pt>
+l.11 \end{figure*}
+                   <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-orientation.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/orientation-normization.png>] [7pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.23 
+      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/framework/ST-Residual/Framework.png>]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/experiments.tex) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/performance-from-finger-knuckle-images.tex
+<Figures/finger-knuckle/left-roc.pdf, id=367, 390.36542pt x 299.10445pt>
 File: Figures/finger-knuckle/left-roc.pdf Graphic file (type pdf)
 <use Figures/finger-knuckle/left-roc.pdf>
 Package pdftex.def Info: Figures/finger-knuckle/left-roc.pdf  used on input line 6.
 (pdftex.def)             Requested size: 122.85876pt x 94.13625pt.
-<Figures/finger-knuckle/right-roc.pdf, id=356, 396.69304pt x 295.39659pt>
+<Figures/finger-knuckle/right-roc.pdf, id=368, 396.69304pt x 295.39659pt>
 File: Figures/finger-knuckle/right-roc.pdf Graphic file (type pdf)
 <use Figures/finger-knuckle/right-roc.pdf>
 Package pdftex.def Info: Figures/finger-knuckle/right-roc.pdf  used on input line 8.
@@ -810,18 +812,18 @@ Overfull \hbox (4.33138pt too wide) in paragraph at lines 6--9
  [][][][] 
  []
 
-<Figures/finger-knuckle/thumb-roc.pdf, id=357, 400.98376pt x 296.76974pt>
+<Figures/finger-knuckle/thumb-roc.pdf, id=369, 400.98376pt x 296.76974pt>
 File: Figures/finger-knuckle/thumb-roc.pdf Graphic file (type pdf)
 <use Figures/finger-knuckle/thumb-roc.pdf>
 Package pdftex.def Info: Figures/finger-knuckle/thumb-roc.pdf  used on input line 11.
 (pdftex.def)             Requested size: 130.08621pt x 96.27693pt.
-) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/performance-from-fingerprint-images.tex
-<Figures/fingerprint/left-roc.pdf, id=362, 389.94083pt x 299.20682pt>
+[8]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/performance-from-fingerprint-images.tex
+<Figures/fingerprint/left-roc.pdf, id=397, 389.94083pt x 299.20682pt>
 File: Figures/fingerprint/left-roc.pdf Graphic file (type pdf)
 <use Figures/fingerprint/left-roc.pdf>
 Package pdftex.def Info: Figures/fingerprint/left-roc.pdf  used on input line 8.
 (pdftex.def)             Requested size: 122.85876pt x 94.2689pt.
-<Figures/fingerprint/right-roc.pdf, id=363, 397.7279pt x 290.6619pt>
+<Figures/fingerprint/right-roc.pdf, id=398, 397.7279pt x 290.6619pt>
 File: Figures/fingerprint/right-roc.pdf Graphic file (type pdf)
 <use Figures/fingerprint/right-roc.pdf>
 Package pdftex.def Info: Figures/fingerprint/right-roc.pdf  used on input line 10.
@@ -831,188 +833,197 @@ Overfull \hbox (4.33138pt too wide) in paragraph at lines 8--11
  [][][][] 
  []
 
-<Figures/fingerprint/thumb-roc.pdf, id=364, 405.05559pt x 297.17625pt>
+<Figures/fingerprint/thumb-roc.pdf, id=399, 405.05559pt x 297.17625pt>
 File: Figures/fingerprint/thumb-roc.pdf Graphic file (type pdf)
 <use Figures/fingerprint/thumb-roc.pdf>
 Package pdftex.def Info: Figures/fingerprint/thumb-roc.pdf  used on input line 13.
 (pdftex.def)             Requested size: 130.08621pt x 95.43843pt.
 ) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/experiments/joint-performance-from-fingerprint-and-finger-knuckle-images.tex
-<Figures/dynamic/01.pdf, id=365, 393.06247pt x 306.43083pt>
+<Figures/dynamic/01.pdf, id=400, 393.06247pt x 306.43083pt>
 File: Figures/dynamic/01.pdf Graphic file (type pdf)
 <use Figures/dynamic/01.pdf>
 Package pdftex.def Info: Figures/dynamic/01.pdf  used on input line 6.
 (pdftex.def)             Requested size: 144.54pt x 112.68561pt.
-<Figures/dynamic/02.pdf, id=366, 401.65399pt x 307.1475pt>
+<Figures/dynamic/02.pdf, id=401, 401.65399pt x 307.1475pt>
 File: Figures/dynamic/02.pdf Graphic file (type pdf)
 <use Figures/dynamic/02.pdf>
 Package pdftex.def Info: Figures/dynamic/02.pdf  used on input line 8.
 (pdftex.def)             Requested size: 144.54pt x 110.53082pt.
-<Figures/dynamic/04.pdf, id=367, 391.63011pt x 302.85146pt>
+<Figures/dynamic/04.pdf, id=402, 391.63011pt x 302.85146pt>
 File: Figures/dynamic/04.pdf Graphic file (type pdf)
 <use Figures/dynamic/04.pdf>
 Package pdftex.def Info: Figures/dynamic/04.pdf  used on input line 10.
 (pdftex.def)             Requested size: 144.54pt x 111.7714pt.
-<Figures/dynamic/05.pdf, id=368, 398.07399pt x 302.13576pt>
+<Figures/dynamic/05.pdf, id=403, 398.07399pt x 302.13576pt>
 File: Figures/dynamic/05.pdf Graphic file (type pdf)
 <use Figures/dynamic/05.pdf>
 Package pdftex.def Info: Figures/dynamic/05.pdf  used on input line 13.
 (pdftex.def)             Requested size: 144.54pt x 109.70465pt.
-<Figures/dynamic/06.pdf, id=369, 398.78967pt x 298.5554pt>
+<Figures/dynamic/06.pdf, id=404, 398.78967pt x 298.5554pt>
 File: Figures/dynamic/06.pdf Graphic file (type pdf)
 <use Figures/dynamic/06.pdf>
 Package pdftex.def Info: Figures/dynamic/06.pdf  used on input line 15.
 (pdftex.def)             Requested size: 144.54pt x 108.20874pt.
-<Figures/dynamic/07.pdf, id=370, 398.78967pt x 300.70442pt>
+<Figures/dynamic/07.pdf, id=405, 398.78967pt x 300.70442pt>
 File: Figures/dynamic/07.pdf Graphic file (type pdf)
 <use Figures/dynamic/07.pdf>
 Package pdftex.def Info: Figures/dynamic/07.pdf  used on input line 17.
 (pdftex.def)             Requested size: 144.54pt x 108.98764pt.
-<Figures/dynamic/08.pdf, id=371, 403.80138pt x 298.5554pt>
+<Figures/dynamic/08.pdf, id=406, 403.80138pt x 298.5554pt>
 File: Figures/dynamic/08.pdf Graphic file (type pdf)
 <use Figures/dynamic/08.pdf>
 Package pdftex.def Info: Figures/dynamic/08.pdf  used on input line 20.
 (pdftex.def)             Requested size: 144.54pt x 106.86485pt.
-<Figures/dynamic/09.pdf, id=372, 396.64287pt x 298.5554pt>
+<Figures/dynamic/09.pdf, id=407, 396.64287pt x 298.5554pt>
 File: Figures/dynamic/09.pdf Graphic file (type pdf)
 <use Figures/dynamic/09.pdf>
 Package pdftex.def Info: Figures/dynamic/09.pdf  used on input line 22.
 (pdftex.def)             Requested size: 144.54pt x 108.79642pt.
-<Figures/dynamic/10.pdf, id=373, 401.6536pt x 307.14648pt>
+<Figures/dynamic/10.pdf, id=408, 401.6536pt x 307.14648pt>
 File: Figures/dynamic/10.pdf Graphic file (type pdf)
 <use Figures/dynamic/10.pdf>
 Package pdftex.def Info: Figures/dynamic/10.pdf  used on input line 24.
 (pdftex.def)             Requested size: 144.54pt x 110.53047pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.30 
-     pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.30 
-      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/left-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/right-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/thumb-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/left-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/right-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/thumb-roc.pdf>]
-<Figures/score-distribution-a.png, id=452, 727.21687pt x 713.66624pt>
+<Figures/score-distribution-a.png, id=413, 727.21687pt x 713.66624pt>
 File: Figures/score-distribution-a.png Graphic file (type png)
 <use Figures/score-distribution-a.png>
-Package pdftex.def Info: Figures/score-distribution-a.png  used on input line 55.
+Package pdftex.def Info: Figures/score-distribution-a.png  used on input line 54.
 (pdftex.def)             Requested size: 119.24506pt x 117.02023pt.
-<Figures/score-distribution-b.png, id=453, 725.71124pt x 713.66624pt>
+<Figures/score-distribution-b.png, id=414, 725.71124pt x 713.66624pt>
 File: Figures/score-distribution-b.png Graphic file (type png)
 <use Figures/score-distribution-b.png>
-Package pdftex.def Info: Figures/score-distribution-b.png  used on input line 57.
+Package pdftex.def Info: Figures/score-distribution-b.png  used on input line 56.
 (pdftex.def)             Requested size: 119.24506pt x 117.25981pt.
 ) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/discussion.tex
-<Figures/fk-compare/02.pdf, id=454, 395.29784pt x 298.99706pt>
+<Figures/fk-compare/02.pdf, id=415, 395.29784pt x 298.99706pt>
 File: Figures/fk-compare/02.pdf Graphic file (type pdf)
 <use Figures/fk-compare/02.pdf>
 Package pdftex.def Info: Figures/fk-compare/02.pdf  used on input line 4.
 (pdftex.def)             Requested size: 115.63243pt x 87.4597pt.
-<Figures/fk-compare/07.pdf, id=455, 401.51076pt x 286.57164pt>
+<Figures/fk-compare/07.pdf, id=416, 401.51076pt x 286.57164pt>
 File: Figures/fk-compare/07.pdf Graphic file (type pdf)
 <use Figures/fk-compare/07.pdf>
 Package pdftex.def Info: Figures/fk-compare/07.pdf  used on input line 6.
 (pdftex.def)             Requested size: 122.85876pt x 87.68625pt.
-<Figures/compare-fingerprint-a.png, id=458, 914.66719pt x 545.03625pt>
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+     pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/left-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/right-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/finger-knuckle/thumb-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/left-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/right-roc.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fingerprint/thumb-roc.pdf>]
+Underfull \vbox (badness 6252) has occurred while \output is active []
+
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.14 
+      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/01.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/02.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/04.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/05.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/06.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/07.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/08.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/09.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/10.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/score-distribution-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/score-distribution-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fk-compare/02.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fk-compare/07.pdf>]
+<Figures/compare-fingerprint-a.png, id=668, 914.66719pt x 545.03625pt>
 File: Figures/compare-fingerprint-a.png Graphic file (type png)
 <use Figures/compare-fingerprint-a.png>
 Package pdftex.def Info: Figures/compare-fingerprint-a.png  used on input line 19.
 (pdftex.def)             Requested size: 115.63243pt x 68.9028pt.
-<Figures/compare-fingerprint-b.png, id=459, 913.91437pt x 545.03625pt>
+<Figures/compare-fingerprint-b.png, id=669, 913.91437pt x 545.03625pt>
 File: Figures/compare-fingerprint-b.png Graphic file (type png)
 <use Figures/compare-fingerprint-b.png>
 Package pdftex.def Info: Figures/compare-fingerprint-b.png  used on input line 21.
 (pdftex.def)             Requested size: 115.63243pt x 68.9527pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.25 
-     pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.25 
-      <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/01.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/02.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/04.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/05.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/06.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/07.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/08.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/09.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/dynamic/10.pdf>]
-<Figures/compare-fusion-left.png, id=595, 898.10532pt x 532.23843pt>
+<Figures/compare-fusion-left.png, id=671, 898.10532pt x 532.23843pt>
 File: Figures/compare-fusion-left.png Graphic file (type png)
 <use Figures/compare-fusion-left.png>
 Package pdftex.def Info: Figures/compare-fusion-left.png  used on input line 31.
 (pdftex.def)             Requested size: 115.63243pt x 68.51935pt.
-<Figures/compare-fusion-right.png, id=596, 895.84688pt x 532.23843pt>
+<Figures/compare-fusion-right.png, id=672, 895.84688pt x 532.23843pt>
 File: Figures/compare-fusion-right.png Graphic file (type png)
 <use Figures/compare-fusion-right.png>
 Package pdftex.def Info: Figures/compare-fusion-right.png  used on input line 33.
 (pdftex.def)             Requested size: 115.63243pt x 68.69801pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/failure-a.png, id=597, 503.63156pt x 503.63156pt>
+<Figures/failure-a.png, id=673, 503.63156pt x 503.63156pt>
 File: Figures/failure-a.png Graphic file (type png)
 <use Figures/failure-a.png>
 Package pdftex.def Info: Figures/failure-a.png  used on input line 40.
 (pdftex.def)             Requested size: 79.49744pt x 79.49146pt.
-<Figures/failure-b.png, id=598, 503.63156pt x 503.63156pt>
+<Figures/failure-b.png, id=674, 503.63156pt x 503.63156pt>
 File: Figures/failure-b.png Graphic file (type png)
 <use Figures/failure-b.png>
 Package pdftex.def Info: Figures/failure-b.png  used on input line 41.
 (pdftex.def)             Requested size: 79.49744pt x 79.49146pt.
-<Figures/failure-c.png, id=599, 503.63156pt x 504.38437pt>
+<Figures/failure-c.png, id=675, 503.63156pt x 504.38437pt>
 File: Figures/failure-c.png Graphic file (type png)
 <use Figures/failure-c.png>
 Package pdftex.def Info: Figures/failure-c.png  used on input line 42.
 (pdftex.def)             Requested size: 79.49744pt x 79.61028pt.
-<Figures/failure-d.png, id=600, 502.87875pt x 502.87875pt>
+<Figures/failure-d.png, id=676, 502.87875pt x 502.87875pt>
 File: Figures/failure-d.png Graphic file (type png)
 <use Figures/failure-d.png>
 Package pdftex.def Info: Figures/failure-d.png  used on input line 45.
 (pdftex.def)             Requested size: 79.49744pt x 79.4954pt.
-<Figures/failure-e.png, id=601, 503.63156pt x 502.87875pt>
+<Figures/failure-e.png, id=677, 503.63156pt x 502.87875pt>
 File: Figures/failure-e.png Graphic file (type png)
 <use Figures/failure-e.png>
 Package pdftex.def Info: Figures/failure-e.png  used on input line 46.
 (pdftex.def)             Requested size: 79.49744pt x 79.37263pt.
-<Figures/failure-f.png, id=602, 502.87875pt x 502.87875pt>
+<Figures/failure-f.png, id=678, 502.87875pt x 502.87875pt>
 File: Figures/failure-f.png Graphic file (type png)
 <use Figures/failure-f.png>
 Package pdftex.def Info: Figures/failure-f.png  used on input line 47.
 (pdftex.def)             Requested size: 79.49744pt x 79.4954pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/failure-fingerprint.png, id=607, 1202.99437pt x 720.44156pt>
+<Figures/failure-fingerprint.png, id=683, 1202.99437pt x 720.44156pt>
 File: Figures/failure-fingerprint.png Graphic file (type png)
 <use Figures/failure-fingerprint.png>
 Package pdftex.def Info: Figures/failure-fingerprint.png  used on input line 58.
 (pdftex.def)             Requested size: 216.81pt x 129.83878pt.
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/conclusion.tex [11pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.62 \end{figure}
-                 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+l.1 \section
+            {Conclusion and Further Work\label{conclusion}}pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.62 \end{figure}
-                 pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+l.1 \section
+            {Conclusion and Further Work\label{conclusion}}pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.62 \end{figure}
-                 pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+l.1 \section
+            {Conclusion and Further Work\label{conclusion}} <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fingerprint-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fingerprint-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fusion-left.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fusion-right.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-c.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-d.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-e.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-f.png>]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.bbl
+Underfull \hbox (badness 3333) in paragraph at lines 4--10
+\OT1/ptm/m/n/8 UIDAI, March 2012.  []$http : / / stateofaadhaar . in / wp-[]content / uploads /
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.62 \end{figure}
-                 pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.62 \end{figure}
-                  <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/score-distribution-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/score-distribution-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fk-compare/02.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/fk-compare/07.pdf> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fingerprint-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fingerprint-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fusion-left.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/compare-fusion-right.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-a.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-b.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-c.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-d.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-e.png> <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-f.png>]) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/V1/conclusion.tex) (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.bbl [11pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.87 
+l.98 
       <c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/Figures/failure-fingerprint.png>]
-Underfull \hbox (badness 3118) in paragraph at lines 200--205
+Underfull \hbox (badness 1389) in paragraph at lines 110--113
+[]\OT1/ptm/m/n/8 Davide Mal-toni, Dario Maio, Anil K Jain, and Salil Prab-hakar.
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 228--233
 \OT1/ptm/m/n/8 Fin-ger-print Database.  []$https : / / www4 . comp . polyu . edu . hk / []csajaykr /
  []
 
-) [12
+) [13
 
 ] (c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.aux)
 
@@ -1022,18 +1033,18 @@ Package rerunfilecheck Info: File `finger-knuckle-assisted-slap-fingerprint.out'
 (rerunfilecheck)             Checksum: A88C9CE7C022F5BA957BC35AB0D8B1DC;4474.
  ) 
 Here is how much of TeX's memory you used:
- 12412 strings out of 478994
- 201836 string characters out of 5855130
- 527082 words of memory out of 5000000
- 29442 multiletter control sequences out of 15000+600000
- 454443 words of font info for 125 fonts, out of 8000000 for 9000
+ 12515 strings out of 478994
+ 203257 string characters out of 5855130
+ 541762 words of memory out of 5000000
+ 29532 multiletter control sequences out of 15000+600000
+ 454549 words of font info for 126 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 71i,13n,74p,3077b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,74p,3138b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/Program Files/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.pdf (12 pages, 23952406 bytes).
+Output written on c:/Users/ZhenyuZHOU/Desktop/Finger-Knuckle-Assist-Slap-Fingerprint/Finger-Knuckle-Assisted-Slap-Fingerprint/finger-knuckle-assisted-slap-fingerprint.pdf (13 pages, 24707591 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 682 compressed objects within 7 object streams
- 158 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 849 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 404 words of extra memory for PDF output out of 10000 (max. 10000000)
 

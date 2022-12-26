@@ -22,11 +22,11 @@
     \label{}}
     \subfloat[]{\includegraphics[width=2in]{Figures/dynamic/10.pdf}
     \label{}}
-    \caption{Comparative performance the simultaneously acquired fingerprint and finger-knuckle images. The figures on the left column (a)-(e) indicate ROC from the left-hand fingers, and figures on the right column (f)-(j) indicate ROC from the right hand fingers. The figures from top to bottom row pre-sents the ROC from the little finger in (a) and (f), ring finger in (b) and (g), middle finger in (c) and (h), index finger in (d) and (i), and thumb in (f) and (j).}
+    \caption{Comparative performance the simultaneously acquired fingerprint and finger knuckle images. The figures on these (a)-(d) indicate ROC from the left-hand fingers, and figures on these (e)-(i) indicate ROC from the right hand fingers. The figures from top to bottom row presents the ROC from the little finger in (a), ring finger in (b), index finger in (c), and thumb in (d) of left hand, While the thumb in (e), index finger in (f), middle finger in (g),  ring finger in (h), and little finger in (i) of right hand.}
     \label{joint-performance}
 \end{figure*}
 
-The combined performance from the simultaneously acquired finger knuckle and fingerprint images is shown in Figure 12. Table \ref{fusion-eer} presents a summary of respective EER values from each of the ten fingers, both individually from the finger-knuckle or fingerprint and their combination. It can be observed from these figures and table that performance improvement from the joint usage of two biometric is quite significant except for the thumbprints. The performance from the fingerprint images acquired from the thumbs is already quite high which can limit the effectiveness for simultaneously acquired finger knuckle images. The results presented in Figure 12 indicates that the extent of the performance improvement varies for the different fingers. Fig. \ref{score-distribution} illustrates the distribution of match score for the two sample fingers in our database. It can be ob-served from this figure that the distribution of match scores, from the two simultaneously acquired images, is quite distinct for the two classes. Therefore, the joint usage of such match scores is expected to offer more reliable user authentication.
+The combined performance from the simultaneously acquired finger knuckle and fingerprint images is shown in Fig. \ref{joint-performance}. Table \ref{fusion-eer} presents a summary of respective EER values from each of the nine fingers, both individually from the finger knuckle or fingerprint and their combination. It can be observed from these figures and table that performance improvement from the joint usage of two biometric is quite significant except for the thumbprints. The performance from the fingerprint images acquired from the thumbs is already quite high which can limit the effectiveness for simultaneously acquired finger knuckle images. The results presented in Fig. \ref{joint-performance} indicates that the extent of the performance improvement varies for the different fingers. Fig. \ref{score-distribution} illustrates the distribution of match score for the two sample fingers in our database. It can be observed from this figure that the distribution of match scores, from the two simultaneously acquired images, is quite distinct for the two classes. Therefore, the joint usage of such match scores is expected to offer more reliable user authentication.
 
 \begin{table}[ht]
     \centering
@@ -34,16 +34,15 @@ The combined performance from the simultaneously acquired finger knuckle and fin
     \begin{tabular}{cccc}
     \hline
     Finger       & Finger Knuckle & Fingerprint & Combined \\ \hline
-    Left Little  & 0.07491        & 0.06865     & 0.02667  \\
-    Left Ring    & 0.03999        & 0.06650     & 0.01917  \\
-    Left Middle  & 0.04892        & 0.08911     & 0.02167  \\
-    Left Index   & 0.06746        & 0.17830     & 0.02917  \\
-    Left Thumb   & 0.06493        & 0.01796     & 0.00601  \\
-    Right Thumb  & 0.05334        & 0.06929     & 0.01416  \\
-    Right Index  & 0.05496        & 0.02594     & 0.00916  \\
-    Right Middle & 0.04922        & 0.07931     & 0.01249  \\
-    Right Ring   & 0.03915        & 0.10214     & 0.01167  \\
-    Right Little & 0.09746        & 0.23997     & 0.04916  \\ \hline
+    Left Little  & 0.0447        & 0.0686     & 0.0149  \\
+    Left Ring    & 0.0067        & 0.0665    & 0.0056  \\
+    Left Index   & 0.0191        & 0.1783     & 0.0094  \\
+    Left Thumb   & 0.0351        & 0.0180     & 0.0066  \\
+    Right Thumb  & 0.0258        & 0.0693     & 0.0091  \\
+    Right Index  & 0.0191        & 0.0259     & 0.0051  \\
+    Right Middle & 0.0158        & 0.0793     & 0.0033  \\
+    Right Ring   & 0.0108        & 0.1021     & 0.0034  \\
+    Right Little & 0.0537        & 0.2400     & 0.0193  \\ \hline
     \end{tabular}
     \label{fusion-eer}
 \end{table}
