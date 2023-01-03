@@ -5,7 +5,7 @@
 \begin{figure*}
     \centering
     \includegraphics[width=6.5in]{Figures/framework/ST-Residual/Framework.png}
-    \caption{We have proposal a new finger knuckle recognition framework with quadruplet architecture. \textbf{1.} Quadruplet: We trained our model with the quadruplet architecture \cite{chen2017beyond} for decreasing inter-class variance and increasing intra-class variance. \textbf{2.} STResNet: The new architecture is a fully connected convolution network. If the input data size is a tensor $[3, H, W]$, the network will output feature maps of $[64, H/4, W/4]$ size. \textbf{3.} ST-Residual: This module consists of a STN \cite{jaderberg2015spatial} module, two convolution layers, and an SE \cite{hu2018squeeze} module combined to from a residual module.
+    \caption{We have proposal a new finger knuckle recognition framework with quadruplet architecture. \textbf{1.} Quadruplet: We trained our model with the quadruplet architecture \cite{chen2017beyond} for decreasing inter-class variance and increasing intra-class variance. \textbf{2.} STResNet: The new architecture is a fully connected convolution network. If the input data size is a tensor $[3, H, W]$, the network will output feature maps of $[3, H/4, W/4]$ size. \textbf{3.} ST-Residual: This module consists of a STN \cite{jaderberg2015spatial} module, two convolution layers, and an SE \cite{hu2018squeeze} module combined to from a residual module.
      \textbf{4.} RS-SSIM: Meanwhile, we introduce a new loss function based on the SSIM index for enhance the STResNet model rotation and translation invariance ability by rotating and shifting output feature maps.}
     \label{framework}
 \end{figure*}
